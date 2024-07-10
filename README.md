@@ -1,4 +1,4 @@
-# Todo List con React y Redux
+# Todo List
 
 Este proyecto es una aplicación de lista de tareas desarrollada con React y Redux. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas, editarlas y eliminarlas.
 
@@ -20,4 +20,5 @@ Este proyecto es una aplicación de lista de tareas desarrollada con React y Red
 
 1. **Clonar el Repositorio:**
    ```bash
+   git clone https://github.com/tathapachon/todo.git
   
